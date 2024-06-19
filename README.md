@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Django-FCC624?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/kotlin-00ADD8?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
+<!--
 **oh1701/oh1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
