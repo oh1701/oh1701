@@ -13,8 +13,9 @@
 ### 🛠 Tools
 <div style="display: flex; flex-direction: row;">
     <img src="https://img.shields.io/badge/Slack-339933?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pycharm-FCC624?style=flat-square&logo=Jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-FCC624?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-00ADD8?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-3776AB?style=flat-square&logo=Figma&logoColor=white"/>    
-    <img src="https://img.shields.io/badge/Jira-FCC624?style=flat-square&logo=Jira&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Jira-FCC624?style=flat-square&logo=Jira&logoColor=white"/>
 </div>
